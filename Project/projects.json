@@ -1,0 +1,33 @@
+[
+  
+  {
+    "name": "Real Time Chat Application",
+    "desc": "A real-time chat application that allows users to send and receive messages instantly. Features include live messaging, user authentication, and a clean chat interface for seamless communication..",
+    "image": "image",
+    "category": "website",
+    "links": {
+      "view": "https://chat-master-git-main-gnana-jothis-projects.vercel.app/chat",
+      "code": "https://github.com/GnanaJothi-79/Chat-Master"
+    }
+  },
+  {
+    "name": "Quiz App",
+    "desc": "A responsive quiz application that enables users to test their knowledge through timed multiple-choice questions, instant result display, and score analysis. Built to provide an engaging and smooth user experience.",
+    "image": "image2",
+    "category": "website",
+    "links": {
+      "view": "https://quiz-masster.netlify.app/",
+      "code": "https://github.com/GnanaJothi-79/Quiz-Master"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  }
+]
